@@ -3,5 +3,5 @@ IBM Open Source Project
 
 Hello guys!
 
-This project contains the deep learning aplication for identifying different denominations of foreign currency (euros mainly)using adam optimization algo and keras.
+This project contains the deep learning application for identifying different denominations of foreign currency (euros) using adam optimization algo and keras.
 :)
